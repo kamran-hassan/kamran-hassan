@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kamran-hassan
 - 👀 I’m interested in Robotics, AI, ML, Embedded System, IOT, Gaming Servers
 - 🌱 I’m currently learning CNN, ML
-- 💞️ I’m looking to collaborate on Large Scale High end Backend System
+- 💞️ I’m looking to collaborate on Nueral Network
 - 📫 How to reach me hassan.kamran107@gmail.com,  https://www.linkedin.com/in/kamran-hassan-55b361128/
 
 
