@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kamran-hassan
-- 👀 I’m interested in Robotics, AI, ML, Embedded System, IOT
-- 🌱 I’m currently learning CNN, ML
+- 👀 I’m interested in Blockchain, OOPs, AI, ML, Embedded System, IOT.
+- 🌱 I’m currently learning Blockchain.
 - 💞️ I’m looking to collaborate on Nueral Network
 - 📫 How to reach me hassan.kamran107@gmail.com,  https://www.linkedin.com/in/kamran-hassan-55b361128/
 
