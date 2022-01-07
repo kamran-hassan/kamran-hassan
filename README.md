@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kamran-hassan
 - 👀 I’m interested in Blockchain, OOPs, AI, ML, Embedded System, IOT.
 - 🌱 I’m currently learning Blockchain.
-- 💞️ I’m looking to collaborate on Nueral Network
+- 💞️ I’m looking to collaborate on Nueral Network / Blockchain / Data Science
 - 📫 How to reach me hassan.kamran107@gmail.com,  https://www.linkedin.com/in/kamran-hassan-55b361128/
 
 
