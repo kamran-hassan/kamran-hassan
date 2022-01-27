@@ -15,6 +15,9 @@ My Recognitions :-
 #### Technology Used :- Embedded System, IOT.
 #### Description :- This project can be used to a biometric(fingerprint) based locking mechanism in a vehicle, In addition with that the lock can be bypassed by the Owner of the vehicle having correct credentials.
 
+#### My Team
 ![GPBQ4243](https://user-images.githubusercontent.com/52744272/151304521-78c364a0-1d77-460b-9728-8e3dfb11284d.JPG)
-
+#### It was also published in the news paper.
 ![b8531763-1100-488d-a79d-156135ceb7e8](https://user-images.githubusercontent.com/52744272/151304616-28d3ca87-9c9f-42ab-b347-b85f8dd60e24.JPG)
+
+
